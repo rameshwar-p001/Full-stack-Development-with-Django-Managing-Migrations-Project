@@ -67,11 +67,10 @@ python manage.py runserver
 Access the application at http://127.0.0.1:8000/
 
 
-🔗 GitHub Repository: Project Link
-
 Done By :-    
          Rameshwar Digambar Patil
 
+Div - J - 01
 Pimpri Chinchwad University
 
 Guided by :- Mr. Chandan Prasad
